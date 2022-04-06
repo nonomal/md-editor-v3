@@ -1,4 +1,4 @@
-import{E,a as A}from"./request.77a2f922.js";import{d as B,r as _,u as k,w as D,c,a as i,b as h,e as p,f as s,o as m,F as w,g as y,t as S}from"./index.7f3b5d92.js";const g=`## \u{1F632} md-editor-v3
+import{E,a as A}from"./request.2c5d2972.js";import{d as B,r as _,u as k,w as D,c,a as i,b as h,e as p,f as s,o as m,F as w,g as y,t as S}from"./index.5b5b3d1c.js";const g=`## \u{1F632} md-editor-v3
 
 Markdown \u7F16\u8F91\u5668\uFF0C\u57FA\u4E8E react\uFF0C\u4F7F\u7528 jsx \u548C typescript \u8BED\u6CD5\u5F00\u53D1\uFF0C\u652F\u6301\u5207\u6362\u4E3B\u9898\u3001prettier \u7F8E\u5316\u6587\u672C\u7B49\u3002
 
